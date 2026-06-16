@@ -31,6 +31,7 @@ public class dia06_lista1AtividadePratica001 {
 			System.out.printf("%d + %d = %d / %d = %d", numero1, numero2, numero1 + numero2, numero1 + numero2, numero3);
 			
 		}
+		scanner.close();
 		
 	}
 

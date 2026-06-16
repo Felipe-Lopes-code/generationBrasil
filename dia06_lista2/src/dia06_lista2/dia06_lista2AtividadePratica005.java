@@ -57,7 +57,7 @@ public class dia06_lista2AtividadePratica005 {
 		
 		System.out.printf("Você selecionou %d unidade(s) de %s. O valor total é R$ %.2f", quantidadeProduto, produto, valorTotal);
 		
-		
+		scanner.close();
 	}
 
 }

@@ -20,6 +20,7 @@ public class dia06_lista1AtividadePratica002 {
 		} else {
 			System.out.println("negativo!");
 		}
+		scanner.close();
 		
 	}
 

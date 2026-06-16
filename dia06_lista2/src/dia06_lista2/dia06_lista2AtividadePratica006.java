@@ -61,6 +61,8 @@ public class dia06_lista2AtividadePratica006 {
 		}
 		System.out.println("\n+++++++++++++++++++++++++++++++++++ ATUALIZAÇÃO SALARIAL +++++++++++++++++++++++++++++++++++\n");
 		System.out.printf("Nome do Colaborador: %s \nCargo: %s \nNovo salário: %.2f", nomeColaborador, cargo, salarioReajustado);
+		
+		scanner.close();
 	}
 
 }
