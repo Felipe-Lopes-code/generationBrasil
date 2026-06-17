@@ -2,7 +2,7 @@ package dia06_praticaAvaliada01;
 
 import java.util.Scanner;
 
-public class dia06_praticaAvaliadaEx01_analiseIdadeAcesso {
+public class dia06_praticaAvaliada01Ex01_analiseIdadeAcesso {
 
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);

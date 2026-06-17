@@ -2,7 +2,7 @@ package dia06_praticaAvaliada01;
 
 import java.util.Scanner;
 
-public class dia06_praticaAvaliadaEx03_simulacaoCalculadora {
+public class dia06_praticaAvaliada01Ex03_simulacaoCalculadora {
 
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
@@ -57,6 +57,7 @@ public class dia06_praticaAvaliadaEx03_simulacaoCalculadora {
            		execucao = false;
            	}
         }
+        scanner.close();
 	}
 
 }

@@ -27,5 +27,6 @@ public class dia06_praticaAvaliada01Ex02_classificacaoNotaAluno {
 	        } else if (nota < 5) {
 	        	System.out.println("Situação: " + decoracao.VERMELHO + "REPROVADO" + decoracao.RESET);
 	        }
+	        scanner.close();
 	    }
 }
