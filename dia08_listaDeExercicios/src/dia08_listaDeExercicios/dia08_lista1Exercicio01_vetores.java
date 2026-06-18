@@ -29,9 +29,9 @@ public class dia08_lista1Exercicio01_vetores {
 		}
 		
 		if(numeroEncotrado == true) {
-			System.out.println("Parabéns! Você encontrou um número presente dentro do vetor.");
+			System.out.println(coresDecoracoesCodigo.VERDE + "Parabéns! Você encontrou um número presente dentro do vetor." + coresDecoracoesCodigo.RESET);
 			System.out.printf("O número %d está na posição %d\n", numeroSorteado, posicao);
-		} else { System.out.printf("O número %d não foi encontrado...\n", numeroSorteado);}
+		} else { System.out.printf(coresDecoracoesCodigo.VERMELHO + "O número %d não foi encontrado...\n" + coresDecoracoesCodigo.RESET, numeroSorteado);}
 		
 		System.out.println("Configuração do Vetor:");
 		for(int numero : listaNumeros) {
