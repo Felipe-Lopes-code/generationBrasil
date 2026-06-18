@@ -1,12 +1,10 @@
 package dia08_listaDeExercicios;
 
 import java.util.Random;
-import java.util.Scanner;
 
 public class dia08_lista2Exercicio03_matrizes {
 
 	public static void main(String[] args) {
-		Scanner scanner = new Scanner(System.in);
 		Random random = new Random();
 		int[][] matrizNumeros = new int[3][3];
 		int[] numerosDiagonalPrincipal = new int [3], numerosDiagonalSecundaria = new int [3];

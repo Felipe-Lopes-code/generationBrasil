@@ -37,5 +37,6 @@ public class dia08_lista1Exercicio01_vetores {
 		for(int numero : listaNumeros) {
 			System.out.print(numero + "\t");
 		}
+		scanner.close();
 	}
 }
