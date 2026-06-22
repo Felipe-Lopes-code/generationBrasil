@@ -1,9 +1,9 @@
-package dia08_listaExercicios;
+package dia09_listaExercicios;
 
 import java.util.Stack;
 import java.util.Scanner;
 
-public class dia08_Exercicio02_pilha {
+public class dia09_Exercicio02_pilha {
 
 	public static void main(String[] args) {
 		Stack<String> stack = new Stack<>();

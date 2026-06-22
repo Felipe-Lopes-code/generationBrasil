@@ -1,9 +1,9 @@
-package dia08_listaExercicios;
+package dia09_listaExercicios;
 import java.util.Queue;
 import java.util.LinkedList;
 import java.util.Scanner;
 
-public class dia08_Exercicio01_fila {
+public class dia09_Exercicio01_fila {
 
 	public static void main(String[] args) {
 		Queue<String> queue = new LinkedList<>();

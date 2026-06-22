@@ -1,4 +1,4 @@
-package dia08_listaExercicios;
+package dia09_listaExercicios;
 
 public class coresDecoracoesCodigo {
 
